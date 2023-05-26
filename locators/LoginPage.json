@@ -1,0 +1,21 @@
+{
+  "url": "https://laboratorio.qaminds.com/index.php?route=account/login",
+  "locators": {
+    "email_input": {
+      "by": "ID",
+      "value": "input-email"
+    },
+    "password_input": {
+      "by": "ID",
+      "value": "input-password"
+    },
+    "login_btn": {
+      "by": "XPATH",
+      "value": "//input[@value=\"Login\"]"
+    },
+    "warning_message": {
+      "by": "CLASS_NAME",
+      "value": "alert-danger"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "url": "https://laboratorio.qaminds.com/index.php?route=account/account",
+  "locators": {
+    "right_menu_options": {
+      "by": "XPATH",
+      "value": "//div[@class=\"list-group\"]//a"
+    }
+  }
+}

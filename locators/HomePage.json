@@ -1,0 +1,13 @@
+{
+  "url": "https://laboratorio.qaminds.com/",
+  "locators": {
+    "search_input": {
+      "by": "NAME",
+      "value": "search"
+    },
+    "search_btn": {
+      "by": "XPATH",
+      "value": "//div[@id=\"search\"]//button"
+    }
+  }
+}
